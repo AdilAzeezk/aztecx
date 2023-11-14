@@ -9,13 +9,8 @@ CARA | An E-Commerce Website
 ## Team Id
 aztecx
 ## Link to product walkthrough
-[link to video]
+https://youtu.be/gOBntNySpGI?feature=shared
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
-## Libraries used
-Library Name - Version
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+
